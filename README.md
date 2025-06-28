@@ -11,26 +11,8 @@ Both pages consist of an HTML, CSS, and JS file, plus their own `assets/` folder
 
 ## 📚 Directory Structure
 
-Mindx  
-  ├── index.html # Welcome page (entry point)
-  ├── main-2.html # Main page (accessed from welcome)
-  │
-  ├── welcomePage/ # Welcome Page files
-  │ ├── script-welcome.js # JavaScript for welcome page
-  │ └── style-welcome.css # CSS styling for welcome page
-  │
-  ├── mainPage/ # Main Page files
-  │ ├── script-main.js # JavaScript for main page
-  │ └── style-main.css # CSS styling for main page
-  │
-  ├── assets/ # Images and resources used by welcome page
-  │ ├── background.png
-  │ ├── [other image files...]
-  │
-  ├── assets-main/ # Assets used by main page
-  │ ├── Logo.svg
-  │ ├── Group 41.svg
-  │ └── [other image files...]
+![image](https://github.com/user-attachments/assets/4e1f597d-616d-4108-8ee9-b652c9fee924)
+
 
 ---
 
